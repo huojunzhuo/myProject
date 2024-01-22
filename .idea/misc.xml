@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/mybatisplus/pom.xml" />
         <option value="$PROJECT_DIR$/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/meituan/pom.xml" />
+        <option value="$PROJECT_DIR$/meituan-theme-huojz/pom.xml" />
       </list>
     </option>
   </component>
